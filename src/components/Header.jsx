@@ -1,7 +1,6 @@
 import React from 'react'
+import PHOTO from '../assets/imagen/Foto.png'
 
-// Usa la ruta del archivo que subiste como foto:
-const PHOTO = "/src/imagen/Foto.png";
 const Header = () => {
   return (
     <header className="header">
