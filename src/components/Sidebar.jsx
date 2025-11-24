@@ -1,7 +1,7 @@
 import React from 'react'
-import gitIcon from '../assets/imagen/Git.png'
-import whatsappIcon from '../assets/imagen/What.png'
-import linkedinIcon from '../assets/imagen/Lin.png'
+import gitIcon from '../imagen/Git.png'
+import whatsappIcon from '../imagen/What.png'
+import linkedinIcon from '../imagen/Lin.png'
 
 const Sidebar = () => {
   return (
