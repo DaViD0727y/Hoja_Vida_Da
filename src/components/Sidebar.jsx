@@ -17,9 +17,9 @@ const Sidebar = () => {
 
       <h3>Redes</h3>
       <div className="socials">
-        <a href='https://github.com/DaViD0727y'><button><img src="/src/imagen/Git.png" width={60} alt="Git" /></button></a>
-        <a href='https://wa.me/3128903493'><button><img src="/src/imagen/What.png" width={60} alt="WhatsApp" /></button></a>
-        <a href='https://www.linkedin.com/in/angel-david-guarin-betancourt-986616392?utm_source=share_via&utm_content=profile&utm_medium=member_android'><button><img src="/src/imagen/Lin.png" width={60} alt="LinkedIn" /></button></a>
+        <a href='https://github.com/DaViD0727y'><button><img src="./src/imagen/Git.png" width={60} alt="Git" /></button></a>
+        <a href='https://wa.me/3128903493'><button><img src="./src/imagen/What.png" width={60} alt="WhatsApp" /></button></a>
+        <a href='https://www.linkedin.com/in/angel-david-guarin-betancourt-986616392?utm_source=share_via&utm_content=profile&utm_medium=member_android'><button><img src="./src/imagen/Lin.png" width={60} alt="LinkedIn" /></button></a>
         
       </div>
     </div>
