@@ -1,10 +1,10 @@
 import React from 'react'
-import Header from './components/Header'
-import Sidebar from './components/Sidebar'
-import Skills from './components/Skills'
-import DownloadButton from './components/DownloadButton'
+import Header from './components/Header.jsx'
+import Sidebar from './components/Sidebar.jsx'
+import Skills from './components/Skills.jsx'
+import DownloadButton from './components/DownloadButton.jsx'
 
-const App: React.FC = () => {
+const App = () => {
   return (
     <div className="page">
       <Header />
@@ -67,4 +67,3 @@ const App: React.FC = () => {
 }
 
 export default App
-
