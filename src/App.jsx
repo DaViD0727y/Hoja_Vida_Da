@@ -35,12 +35,12 @@ const App = () => {
           <section className="section">
             <h2>Habilidades técnicas</h2>
             <div className="tech-grid">
-              <Skills name="HTML y CSS" level="6/10" />
+              <Skills name="HTML y CSS" level="4/10" />
               <Skills name="JavaScript" level="5/10" />
-              <Skills name="TypeScript" level="6/10" />
+              <Skills name="TypeScript" level="5/10" />
               <Skills name="React" level="5/10" />
-              <Skills name="Python / Django" level="6/10" />
-              <Skills name="Git & GitHub" level="5/10" />
+              <Skills name="Python / Django" level="4/10" />
+              <Skills name="Git & GitHub" level="4/10" />
             </div>
           </section>
 
